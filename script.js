@@ -5,7 +5,7 @@ let secBox = document.getElementById("sec-box");
 
 //Format: Date(year, month, day, hour, minute)
 //Year is counter from 0 to 11
-let endDate = new Date(2021,8,5,16,30);
+let endDate = new Date(2023,5,1,10,30);
 //Output value in milliseconds
 let endTime = endDate.getTime();
 
